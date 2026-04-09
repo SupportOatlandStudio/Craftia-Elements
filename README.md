@@ -15,7 +15,7 @@ Craftia Elements combines creativity and exploration with dynamic elemental mech
 (Add screenshots here)
 
 ## 🎮 Play the Game
-- Steam: (add your Steam link here)
+- Steam: [(add your Steam link here)](https://store.steampowered.com/app/4226490/Craftia_Elements/)
 
 ## 🛠️ Support
 If you need help or want to report a bug, please check:
@@ -30,5 +30,3 @@ If you need help or want to report a bug, please check:
 We welcome feedback and suggestions!  
 Please open an issue or start a discussion.
 
-## 📄 License
-(Add license if needed)
