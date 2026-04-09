@@ -22,9 +22,8 @@ If you need help or want to report a bug, please check:
 👉 [Support](./SUPPORT.md)
 
 ## 💬 Community
-(Optional)
 - Discord: (link)
-- Twitter / X: (link)
+- Twitter / X: ([link](https://x.com/oatlandstudio))
 
 ## 📢 Feedback
 We welcome feedback and suggestions!  
