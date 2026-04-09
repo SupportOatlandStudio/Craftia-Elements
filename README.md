@@ -1,33 +1,34 @@
-# Support
+# Craftia Elements
 
-Thank you for your interest in this project.
+Craftia Elements is a creative sandbox experience where players can explore, build, and experiment with elemental systems.
 
-## Getting Help
+## 🌍 About the Game
+Craftia Elements combines creativity and exploration with dynamic elemental mechanics. Players can discover new combinations, build unique worlds, and experiment freely.
 
-If you need help, please:
+## ✨ Features
+- Element-based gameplay system
+- Creative sandbox mechanics
+- Exploration and discovery
+- Unique combinations and interactions
 
-- Open an issue in this repository
-- Check existing issues first
-- Provide a clear description
-- Include screenshots or logs if possible
+## 📸 Screenshots
+(Add screenshots here)
 
-## Reporting Bugs
+## 🎮 Play the Game
+- Steam: (add your Steam link here)
 
-Please include:
+## 🛠️ Support
+If you need help or want to report a bug, please check:
+👉 [Support](./SUPPORT.md)
 
-- What you did
-- What happened
-- What you expected
-- Your environment (OS, version, etc.)
+## 💬 Community
+(Optional)
+- Discord: (link)
+- Twitter / X: (link)
 
-## Feature Requests
+## 📢 Feedback
+We welcome feedback and suggestions!  
+Please open an issue or start a discussion.
 
-Suggestions are welcome. Please describe:
-
-- The feature
-- The use case
-- Why it’s useful
-
-## Contact
-
-For general questions, open an issue.
+## 📄 License
+(Add license if needed)
